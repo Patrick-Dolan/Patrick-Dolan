@@ -1,6 +1,6 @@
-# <p align="center">Hi 👋, I'm Patrick</p>
+# Hi 👋, I'm Patrick
 
-## <p align="center">I'm a software developer and student</p>
+## I'm a software developer and student
 
 ### 📖 &nbsp;About Me
 
