@@ -5,5 +5,9 @@
 😄 Pronouns: He/Him.<br>
 ⚡ Fun fact: I read approximately 100 books a year you can see them at <a href="https://www.goodreads.com/user/show/126122045-patrick-dolan" target="_blank">Goodreads</a>.<br>
 
-![Patricks GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick-dolan&show_icons=true&theme=dark&)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-dolan&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+</a>
