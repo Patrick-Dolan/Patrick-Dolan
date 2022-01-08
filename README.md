@@ -9,7 +9,7 @@
 😄 Pronouns: He/Him.<br>
 ⚡ Fun fact: I read approximately 100 books a year you can see them at <a href="https://www.goodreads.com/user/show/126122045-patrick-dolan" target="_blank">Goodreads</a>.<br>
 
-### 🛠 Tech Stack
+### 🛠 Skill Set
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=563D7C)
