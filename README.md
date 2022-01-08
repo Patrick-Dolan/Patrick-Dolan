@@ -2,7 +2,7 @@
 
 ## <p align="center">I'm a software developer and student</p>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 📖 &nbsp;About Me
 
 🔭 I’m currently working on completing a coding bootcamp called <a href="https://www.epicodus.com/" target="_blank">Epicodus</a>.<br>
 🌱 I’m currently learning Javascript & Git.<br>
