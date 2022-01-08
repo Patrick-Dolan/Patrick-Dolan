@@ -26,5 +26,5 @@
 
 ### 📈 Some Fun Stats
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=patrick-dolan&show_icons=true&theme=dark" />
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-dolan&layout=compact&theme=dark" />
+<img align="left" height="137px" src="https://github-readme-stats.vercel.app/api?username=patrick-dolan&show_icons=true&theme=dark" />
+<img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-dolan&layout=compact&theme=dark" />
