@@ -1,4 +1,4 @@
-# <center>Hi 👋, I'm Patrick</center>
+# <p align="center">Hi 👋, I'm Patrick</p>
 
 ## I'm a software developer and student
 
