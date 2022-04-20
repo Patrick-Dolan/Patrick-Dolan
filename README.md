@@ -18,6 +18,9 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![C#](https://img.shields.io/badge/-CSharp-000?style=flat&logo=csharp&logoColor=9b4993)
+![DotnetCore](https://img.shields.io/badge/-.NETCore-000?style=flat&logo=.net&logoColor=0099e5)
+![Googling](https://img.shields.io/badge/-Googling-000?style=flat&logo=google&logoColor=ffffff)
 
 ### 📫 How to reach me:
 
