@@ -1,11 +1,11 @@
 # 👋 Hi I'm Patrick 👋
 
-## I'm a software developer and student
+## I'm a Frontend Software Developer
 
 ### 📖 &nbsp;About Me
 
-🔭 I’m currently working on completing a coding bootcamp called <a href="https://www.epicodus.com/" target="_blank">Epicodus</a>.<br>
-🌱 I’m currently learning functional programming with React.<br>
+🔭 I’m currently working as an intern at Opine, working on educational software.<br>
+🌱 I’m currently learning MaterialUI and more about React and Firebase.<br>
 ⚡ Fun fact: I read approximately 100 books a year you can see them at <a href="https://www.goodreads.com/user/show/126122045-patrick-dolan" target="_blank">Goodreads</a>.<br>
 
 ### 🛠 Skill Set
@@ -20,6 +20,9 @@
 ![C#](https://img.shields.io/badge/-CSharp-000?style=flat&logo=csharp&logoColor=9b4993)
 ![DotnetCore](https://img.shields.io/badge/-.NETCore-000?style=flat&logo=.net&logoColor=0099e5)
 ![Googling](https://img.shields.io/badge/-Googling-000?style=flat&logo=google&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=#61DAFB)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase&logoColor=#FFCA28)
+![MaterialUI](https://img.shields.io/badge/-MUI-000?style=flat&logo=mui&logoColor=#007FFF)
 
 ### 📫 How to reach me:
 
