@@ -4,7 +4,7 @@
 
 ### 📖 &nbsp;About Me
 
-🔭 I’m currently working as an intern at Opine, working on educational software.<br>
+🔭 I’m currently looking for work as a Frontend Developer or Web Developer.<br>
 🌱 I’m currently learning MaterialUI and more about React and Firebase.<br>
 ⚡ Fun fact: I read approximately 100 books a year you can see them at <a href="https://www.goodreads.com/user/show/126122045-patrick-dolan" target="_blank">Goodreads</a>.<br>
 
