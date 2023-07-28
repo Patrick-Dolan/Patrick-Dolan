@@ -1,11 +1,11 @@
 # 👋 Hi I'm Patrick 👋
 
-## I'm a Frontend Software Developer
+## I'm a Web Development Instructor and Frontend Software Developer
 
 ### 📖 &nbsp;About Me
 
-🔭 I’m currently looking for work as a Frontend Developer or Web Developer.<br>
-🌱 I’m currently learning MaterialUI and more about React and Firebase.<br>
+🔭 I’m currently working for <a href="https://www.fidgetech.org/" target="_blank">Fidgetech</a> as a Fidgetech Instructor (Teaching Full Stack Web Development).<br>
+🌱 I’m currently learning more about C# and Unity game development.<br>
 ⚡ Fun fact: I read approximately 100 books a year you can see them at <a href="https://www.goodreads.com/user/show/126122045-patrick-dolan" target="_blank">Goodreads</a>.<br>
 
 ### 🛠 Skill Set
